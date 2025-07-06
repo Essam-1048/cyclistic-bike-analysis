@@ -1,0 +1,21 @@
+# Cyclistic Bike-Share Case Study
+
+This is a data analysis project exploring differences in user behavior between casual and annual members of the Cyclistic bike-share program in Chicago.
+
+## Tools Used
+- SQL (BigQuery)
+- Tableau Public
+- Google Sheets
+
+## Summary
+- Casual riders took longer rides, mostly on weekends.
+- Members used bikes on weekdays, likely commuting.
+- Casuals preferred classic bikes; members used more electric/docked.
+
+## Recommendations
+- Offer weekday ride promotions to casuals
+- Send ride summary emails to show membership value
+- Highlight electric/docked bike perks for members
+
+## 📄 Final Report
+Download the full case study --> [Cyclistic Bike-Share Case Study Report.docx](./Cyclistic%20Bike-Share%20Case%20Study%20Report.docx)
