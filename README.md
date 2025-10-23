@@ -1,10 +1,9 @@
-# 🚴‍♀️ Cyclistic Bike-Share Case Study (Q1)
+# Cyclistic Bike-Share Case Study (Q1)
 
 **Goal:** Understand how **annual members** and **casual riders** use Cyclistic differently and propose actions to convert casual riders into members.
 
-## 📂 Project Structure
+## Project Structure
 ```
-.
 ├── 01_data_cleaning.ipynb
 ├── 02_analysis.ipynb
 ├── cyclist_cleaned.csv
@@ -16,12 +15,12 @@
 ## Summary
 This report analyzes Cyclistic trip data (Q1 only) to compare behavior between **annual members** and **casual riders** and to surface actionable marketing recommendations.
 
-## 🧹 Data & Cleaning
+## Data & Cleaning
 - Source: Public Divvy/Cyclistic trip data (Q1 subset).
 - Processed with **pandas**; added `ride_length`, `day_of_week`, and `month`.
 - Filtered invalid durations (≤ 0).
 
-## 📊 Results (Q1)
+## Results (Q1)
 - **Total rides analyzed:** 426,677
 - **User mix:** members ≈ 378,407 | casual ≈ 48,270
 - **Average ride length:** members ≈ 12.7 min | casual ≈ 96.2 min
